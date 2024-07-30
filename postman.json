@@ -1,0 +1,136 @@
+{
+    "Users": [
+        {
+            "email": "dadhania@gmail.com",
+            "firstname": "Navdeep",
+            "lastname": "Dadhania",
+            "password": "navdeep",
+            "phone": "6789451231",
+            "username": "navdeep005"
+        },
+        {
+            "email": "verma@gmail.com",
+            "firstname": "Tushar",
+            "lastname": "Verma",
+            "password": "verma",
+            "phone": "7856348890",
+            "username": "verma518"
+        },
+        {
+            "email": "jay@gmail.com",
+            "firstname": "Jay",
+            "lastname": "Surani",
+            "password": "jay",
+            "phone": "9045235167",
+            "username": "jay516"
+        },
+        {
+            "email": "jainam@gmail.com",
+            "firstname": "Jainam",
+            "lastname": "Patel",
+            "password": "jainam",
+            "phone": "6789907854",
+            "username": "jainam519"
+        },
+        {
+            "email": "keyur@gmail.com",
+            "firstname": "Keyur",
+            "lastname": "Ninama",
+            "password": "keyur",
+            "phone": "7856458967",
+            "username": "keyur521"
+        },
+        {
+            "email": "satu@gmail.com",
+            "firstname": "Satyarth",
+            "lastname": "Ratanani",
+            "password": "satu",
+            "phone": "8956341903",
+            "username": "satu523"
+        },
+        {
+            "email": "himanshu@gmail.com",
+            "firstname": "Himanshu",
+            "lastname": "Thakkar",
+            "password": "himanshu",
+            "phone": "9078894514",
+            "username": "himanshu314"
+        },
+        {
+            "email": "yash@gmail.com",
+            "firstname": "Yash",
+            "lastname": "Patel",
+            "password": "yash",
+            "phone": "9012356241",
+            "username": "yash122"
+        },
+        {
+            "email": "joshi@gmail.com",
+            "firstname": "Pratik",
+            "lastname": "Joshi",
+            "password": "joshi",
+            "phone": "9034562137",
+            "username": "joshi420"
+        }
+    ],
+
+    "group" : [
+        {
+            "groupName" : "C6",
+            "groupDescription" : "Special group of special six person.",
+            "groupType":"FRIEND"
+        },
+        {
+            "groupName" : "GUJU Gang",
+            "groupDescription" : "NITK gujurati group of CS department",
+            "groupType":"FRIEND"
+        },
+        {
+            "groupName" : "Project Work",
+            "groupDescription" : "Persons who working in bill splitter app and part of that team.",
+            "groupType":"OFFICE"
+        },
+        {
+            "groupName" : "NITK Gujarati",
+            "groupDescription" : "Family of NITK gujarati people.",
+            "groupType":"FAMILY"
+        }
+    ],
+
+    "Group Member" : [
+        {
+            "groupDetail" : "0a323601-90eb-1701-8190-eb477e8b0001",
+            "userList" :[
+                "verma518",
+                "jay516",
+                "jainam519",
+                "satu523",
+                "keyur521"
+            ]
+        },
+        {
+            "groupDetail" : "0a323601-90eb-1701-8190-eb477e8b0001",
+            "userList" :[
+                "verma518",
+                "jay516",
+                "jainam519",
+                "satu523",
+                "keyur521",
+                "himanshu314",
+                "yash122",
+                "joshi420"
+            ]
+        },
+        {
+            "groupDetail" : "0a323601-90eb-1701-8190-eb477e8b0001",
+            "userList" :[
+                "verma518",
+                "jay516",
+                "jainam519",
+                "satu523",
+                "keyur521",
+                "himanshu314"
+            ]
+        }
+    ]
+}
